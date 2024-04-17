@@ -1,0 +1,122 @@
+"*Company Name:* Amazon
+
+*One-liner description:* A global e-commerce giant.
+
+*Founding date:* 1994
+
+*Use cases:*
+- Online shopping
+- Cloud computing
+- Digital streaming
+- AI and machine learning
+- E-commerce fulfillment
+
+*Fundings amount details:* $8.1B
+
+*Target user persona:* Consumers, businesses
+
+*Features offered:*
+- Wide range of products
+- Fast delivery
+- Excellent customer service
+- Easy returns
+- Amazon Prime membership
+
+*Integrations available:*
+- Alexa-enabled devices
+- Amazon Pay
+- Amazon Web Services (AWS)
+
+*Pricing packages offered:*
+- Amazon Prime: $12.99/month or $119/year
+- Amazon Music Unlimited: $7.99/month
+- Amazon Video: $8.99/month
+
+*List of investors by VC name:*
+- DBS Bank
+- Mizuho Bank
+
+*List of investors by lead investor name:*
+- Kleiner Perkins
+
+*Relevant URLs for further research:*
+- www.amazon.com
+- www.amazon.jobs
+- www.aboutamazon.com"
+
+
+
+"*Company Name:* Myntra
+
+*One-liner description:* Myntra is India's leading online fashion hub that offers a wide range of clothing, footwear, accessories, home decor, and personal care products.
+
+*Founding date:* February 16, 2007
+
+*Use cases:*
+- Online shopping for fashion and lifestyle products
+- Personalized shopping experience
+- Easy and convenient shopping
+- Loyalty program and rewards
+- Gift services
+and so on...
+
+*Fundings amount:* $569.8M
+
+*Target user persona:*
+- Fashion-conscious individuals
+- Online shoppers
+- Value-seekers
+- Men, women, and kids
+and so on...
+
+*Features:*
+- Extensive inventory
+- Renowned brands
+- Affordable fashion
+- Myntra Insider Program
+- Personalization
+- Easy shopping experience
+- Convenience
+- Gift services
+and so on...
+
+*Integrations:* None mentioned in the context.
+
+*Pricing packages:* None mentioned in the context.
+
+*Investors by VC name:* Not mentioned in the context.
+
+*Investors by lead investor name:* Not mentioned in the context.
+
+*Relevant URLs:*
+- https://www.myntra.com/
+- https://www.crunchbase.com/organization/myntra
+- https://www.macrotrends.net/companies/MYNT/myntra-designs/financials"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

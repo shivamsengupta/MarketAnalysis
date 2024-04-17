@@ -1,0 +1,196 @@
+"*Company Name:* Flipkart.com
+
+*One-liner description:* Flipkart is India's largest e-commerce marketplace, with over 150 million registered users.
+
+*Founding date:* October 7, 2007
+
+*Use cases:*
+- Online shopping
+- Grocery delivery
+- Digital payments
+- Travel bookings
+- Entertainment
+and so on...
+
+*Fundings amount details:*
+- $120 million in 2010
+- $310 million in 2012
+- $1 billion in 2014
+- $2.5 billion in 2015
+- $4.5 billion in 2017
+and so on...
+
+*Target user persona:* Consumers, businesses, and developers
+
+*Features offered:*
+- Wide range of products
+- Fast delivery
+- Easy returns and exchanges
+- Secure payments
+- Customer support
+and so on...
+
+*Integrations available:*
+- Paytm
+- PhonePe
+- Google Pay
+- WhatsApp
+- Facebook
+and so on...
+
+*Pricing packages offered:*
+- Free shipping for orders over a certain amount
+- Subscription-based programs
+- Loyalty programs
+and so on...
+
+*List of investors by VC name:*
+- Accel Partners
+- DST Global
+- Fidelity Investments
+- GIC
+- SoftBank
+and so on...
+
+*List of investors by lead investor name:*
+- Sachin Bansal
+- Binny Bansal
+- Tiger Global
+- Naspers
+- Tencent
+and so on...
+
+*Relevant URLs for further research:*
+- https://www.flipkart.com
+- https://en.wikipedia.org/wiki/Flipkart
+- https://www.crunchbase.com/organization/flipkart
+- https://www.forbes.com/companies/flipkart/"
+
+
+
+
+"*Company Name:* Amazon.in
+
+*One-liner description:* India's largest e-commerce marketplace.
+
+*Founding date:* February 3, 2012
+
+*Use cases:*
+- Online shopping
+- Fashion
+- Electronics
+- Beauty
+- Home and kitchen
+- Personal care and so on...
+
+*Fundings amount details:*
+- $2 billion (2014)
+- $3 billion (2016)
+- $5 billion (2018)
+- $7 billion (2020)
+and so on...
+
+*Target user persona:*
+- Consumers
+- Small businesses
+- Retailers
+- Corporate customers
+and so on...
+
+*Features offered:*
+- Wide range of products
+- Fast and reliable delivery
+- Secure payment options
+- Excellent customer service
+- Easy returns and exchanges
+and so on...
+
+*Integrations available:*
+- Amazon Pay
+- Amazon Prime
+- Amazon Web Services (AWS)
+- Amazon Advertising
+and so on...
+
+*Pricing packages offered:*
+- Amazon Prime subscription
+- Shipping fees
+- Product fees
+- Service fees
+and so on...
+
+*List of investors by VC name:*
+- Accel Partners
+- Bessemer Venture Partners
+- Kleiner Perkins Caufield & Byers
+- Sequoia Capital
+and so on...
+
+*List of investors by lead investor name:*
+- Jeff Bezos (founder and CEO of Amazon)
+- Tiger Global Management
+- SoftBank Group
+- Fidelity Investments
+and so on...
+
+*Relevant URLs for further research:*
+- [Amazon.in website](https://www.amazon.in/)
+- [Amazon.in Wikipedia page](https://en.wikipedia.org/wiki/Amazon.in)
+- [Amazon.in Crunchbase profile](https://www.crunchbase.com/organization/amazon-india)"
+
+
+"*Company Name:* Snapdeal.com
+
+*One-liner description:* An Indian e-commerce company based in New Delhi, India.
+
+*Founding date:* February 4, 2010
+
+*Use cases:*
+- Online shopping
+- Fashion
+- Home & Kitchen
+- Beauty & Personal Care
+- Electronics
+
+*Fundings amount details:*
+- $200 million in Series A funding in 2011
+- $133.74 million Series B round in 2012
+- $627 million Series C round in 2014
+- $500 million in Series D round in 2015
+- $250 million in Series E round in 2016
+
+*Target user persona:*
+- Individuals looking to purchase clothing and other fashion items online.
+
+*Features offered:*
+- Wide variety of clothing and fashion items
+- Easy and convenient online shopping experience
+- Fast and reliable delivery
+- Secure payment options
+- Hassle-free returns and exchanges
+
+*Integrations available:*
+- Payment gateways
+- Logistics providers
+- Social media platforms
+
+*Pricing packages offered:*
+- Not applicable
+
+*List of investors by VC name:*
+- Kalaari Capital
+- Nexus Venture Partners
+- Alibaba Group
+- SoftBank Group
+- Foxconn
+
+*List of investors by lead investor name:*
+- SoftBank Group
+- Alibaba Group
+- Foxconn
+
+*Relevant URLs for further research:*
+- https://www.snapdeal.com/
+- https://www.crunchbase.com/organization/snapdeal
+- https://www.forbes.com/sites/forbestechcouncil/2022/05/27/indias-snapdeal-sets-sights-on-the-next-billion-e-commerce-shoppers/?sh=6419b52237fb
+- https://www.livemint.com/companies/news/snapdeal-to-invest-rs-1000-crore-to-expand-its-supply-chain-this-year-11677107664941.html"

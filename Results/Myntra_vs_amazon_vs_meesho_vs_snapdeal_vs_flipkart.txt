@@ -1,0 +1,345 @@
+"**Company Name:** Myntra.com
+
+**One-liner description:** India's leading online fashion & lifestyle destination.
+
+**Founding date:** May 2007
+
+**Use cases:**
+- Online shopping for fashion, footwear, accessories, and home goods
+- Fashion discovery and inspiration
+- Personalized shopping experiences
+
+**Fundings amount details:**
+- Series A: $2 million in 2007
+- Series B: $13 million in 2009
+- Series C: $50 million in 2011
+- Series D: $50 million in 2012
+- Series E: $100 million in 2013
+- Series F: $100 million in 2014
+- Series G: $150 million in 2015
+- Series H: $165 million in 2016
+- Series I: $300 million in 2017
+- Series J: $500 million in 2018
+
+**Target user persona:**
+- Fashion enthusiasts
+- Online shoppers
+- Individuals looking for style inspiration
+
+**Features offered:**
+- Wide selection of brands and products
+- Personalized recommendations
+- Virtual try-on and styling services
+- Fast and reliable delivery
+- Easy returns and exchanges
+- Exclusive online discounts and promotions
+
+**Integrations available:**
+- Payment gateways (e.g., Paytm, PayPal, Google Pay)
+- Logistics partners (e.g., FedEx, Bluedart)
+- Fashion bloggers and influencers
+- Social media platforms (e.g., Instagram, Facebook)
+
+**Pricing packages offered:**
+- Free (basic features)
+- Premium (additional features and benefits)
+
+**List of investors by VC name:**
+- Tiger Global
+- Accel Partners
+- DST Global
+- Premji Invest
+- SoftBank
+
+**List of investors by lead investor name:**
+- Rahul Mehta (Accel Partners)
+- Lee Fixel (Tiger Global)
+- Shikha Sharma (Accel Partners)
+- TPG Capital (Premji Invest)
+- Masayoshi Son (SoftBank)
+
+**Relevant URLs for further research:**
+- https://www.myntra.com/
+- https://en.wikipedia.org/wiki/Myntra
+- https://techcrunch.com/2018/03/01/flipkart-buys-myntra/"
+
+
+============================================================================================================================================================
+
+"*Company Name:* Meesho
+
+*One-liner description:* A social e-commerce platform that connects resellers with manufacturers and suppliers.
+
+*Founding date:* December 2015
+
+*Use cases:*
+- Online reselling
+- E-commerce enablement
+- Social commerce
+- Supply chain management
+
+*Fundings amount details:*
+- Pre-Series A: $500,000
+- Series A: $11.5 million
+- Series B: $50 million
+- Series C: $125 million
+- Series D: $300 million
+- Series E: $570 million
+- Series F: $850 million
+
+*Target user persona:*
+- Resellers
+- Small businesses
+- Homepreneurs
+- Housewives
+
+*Features offered:*
+- Product catalog with over 7 million products
+- Catalog management tools
+- Order management system
+- Payment processing
+- Logistics integration
+- Customer support
+
+*Integrations available:*
+- WhatsApp
+- Instagram
+- Facebook
+- Shopify
+- WooCommerce
+
+*Pricing packages offered:*
+- Basic: Free
+- Standard: Rs. 199 per month
+- Premium: Rs. 999 per month
+
+*List of investors by VC name:*
+- Sequoia Capital India
+- SoftBank Vision Fund
+- Prosus Ventures
+- Facebook
+- Elevation Capital
+- Shunwei Capital
+- Venture Highway
+- B Capital Group
+- Target Global
+- Lightrock India
+
+*List of investors by lead investor name:*
+- Sequoia Capital India
+- SoftBank Vision Fund
+- Prosus Ventures
+
+*Relevant URLs for further research:*
+- https://meesho.com/
+- https://en.wikipedia.org/wiki/Meesho
+- https://www.crunchbase.com/organization/meesho
+- https://www.forbes.com/sites/johnkoetsier/2021/09/27/meesho-indias-biggest-social-commerce-platform-raises-570-million-at-49-billion-valuation/?sh=2354b3cf3715"
+
+
+============================================================================================================================================================
+
+"*Company Name:* Amazon.in
+
+*One-liner description:* A leading e-commerce platform in India, offering a wide range of products, services, and digital content.
+
+*Founding date:* June 5, 2013 (in India)
+
+*Use cases:*
+- Online shopping
+- Digital entertainment
+- Cloud computing
+- Amazon Web Services
+
+*Fundings amount details:*
+- $2 billion in 2014
+- $500 million in 2016
+- $1 billion in 2018
+- $1.5 billion in 2020
+
+*Target user persona:*
+- Consumers
+- Businesses
+- Developers
+- IT professionals
+
+*Features offered:*
+- Vast product catalog
+- Fast and reliable delivery
+- Secure payment options
+- Customer support
+- Prime membership program
+- Alexa voice assistant
+- Amazon Music
+- Amazon Prime Video
+- Amazon Fire TV Stick
+- Amazon Web Services (AWS)
+
+*Integrations available:*
+- Payment gateways
+- Shipping carriers
+- Social media platforms
+- Third-party marketplaces
+
+*Pricing packages offered:*
+- Amazon Prime membership: â‚¹999 per year or â‚¹129 per month
+- Amazon Web Services (AWS): Pay-as-you-go pricing
+
+*List of investors by VC name:*
+- Tiger Global Management
+- Accel Partners
+- Sequoia Capital
+- Bessemer Venture Partners
+- Kleiner Perkins Caufield & Byers
+
+*List of investors by lead investor name:*
+- Jeff Bezos
+- David Einhorn
+- Warren Buffett
+- Carl Icahn
+- George Soros
+
+*Relevant URLs:*
+- https://www.amazon.in
+- https://aws.amazon.com
+- https://developer.amazon.com"
+
+
+============================================================================================================================================================
+
+
+"*Company Name:* Flipkart.com
+
+*One-liner description:* An Indian e-commerce giant.
+
+*Founding date:* September 29, 2007
+
+*Use cases:*
+- Online shopping
+- Mobile commerce
+- Digital payments
+- Logistics and supply chain
+- Cloud computing
+- Digital advertising
+
+*Fundings amount details:*
+- $1 billion (Series F round, July 2015)
+- $700 million (Series G round, February 2016)
+- $1.4 billion (Series H round, August 2017)
+- $3.6 billion (Series I round, April 2018)
+- $1 billion (Series J round, August 2019)
+- $3.6 billion (Series K round, December 2021)
+- $3.5 billion (Series L round, July 2022)
+
+*Target user persona:*
+- Online shoppers
+- Business owners
+- Developers
+- Logistics and supply chain professionals
+- Cloud computing users
+- Digital marketers
+
+*Features offered:*
+- Wide range of products across categories
+- Fast and reliable delivery
+- Easy payment options
+- Customer service support
+- Mobile app
+- Cloud computing services
+- Digital advertising solutions
+
+*Integrations available:*
+- Payment gateways
+- Logistics providers
+- Cloud computing platforms
+- Digital marketing tools
+
+*Pricing packages offered:*
+- Free shipping on select orders
+- Subscription plan for free and faster delivery
+- Cloud computing services priced on a pay-as-you-go basis
+- Digital advertising campaigns priced on a cost-per-mile basis
+
+*List of investors by VC name:*
+- Tiger Global Management
+- Accel Partners
+- Sofina
+- Naspers
+- Walmart
+- GIC
+- Qatar Investment Authority
+
+*List of investors by lead investor name:*
+- Tiger Global Management (Series F, Series G, Series H)
+- Accel Partners (Series I)
+- SoftBank (Series J)
+- Walmart (Series K, Series L)
+
+*Relevant URLs for further research:*
+- [Flipkart website](https://www.flipkart.com/)
+- [Flipkart Wikipedia page](https://en.wikipedia.org/wiki/Flipkart)
+- [Flipkart Crunchbase page](https://www.crunchbase.com/organization/flipkart)
+- [Flipkart LinkedIn page](https://www.linkedin.com/company/flipkart/)
+- [Flipkart Twitter page](https://twitter.com/Flipkart)"
+
+
+
+============================================================================================================================================================
+
+"*Company Name:* Snapdeal.com
+
+*One-liner description:* Snapdeal is a leading Indian e-commerce company offering a wide range of products across categories.
+
+*Founding date:* February 4, 2010
+
+*Use cases:*
+- Online shopping
+- Electronics
+- Fashion
+- Home and kitchen
+- Beauty and personal care
+- Sports and fitness
+- Books and stationery
+
+*Fundings amount details:*
+- Series A: $12 million
+- Series B: $50 million
+- Series C: $133 million
+- Series D: $627 million
+- Series E: $500 million
+
+*Target user persona:*
+- Consumers
+- Businesses
+
+*Features offered:*
+- Wide range of products
+- Competitive pricing
+- Easy payment options
+- Fast delivery
+- Customer support
+
+*Integrations available:*
+- Payment gateways
+- Logistics providers
+- Marketplaces
+
+*Pricing packages offered:*
+- Free shipping on orders above a certain amount
+- Discounts on bulk orders
+- Membership plans
+
+*List of investors by VC name:*
+- Kalaari Capital
+- Nexus Venture Partners
+- Tiger Global Management
+- SoftBank Group
+
+*List of investors by lead investor name:*
+- Tiger Global Management
+- SoftBank Group
+
+*Relevant URLs for further research:*
+- https://www.snapdeal.com/
+- https://en.wikipedia.org/wiki/Snapdeal
+- https://www.crunchbase.com/organization/snapdeal"
