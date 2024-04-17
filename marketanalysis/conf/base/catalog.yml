@@ -2,3 +2,11 @@
 #
 # Documentation for this file format can be found in "The Data Catalog"
 # Link: https://docs.kedro.org/en/stable/data/data_catalog.html
+
+scraping_result:
+    type: pandas.CSVDataset
+    filepath: data/01_raw/scraping_result.csv
+company_information:
+    type: pandas.CSVDataset
+    filepath: data/02_intermediate/company_information.csv
+
