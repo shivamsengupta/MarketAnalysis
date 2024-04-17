@@ -19,7 +19,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 from youtube_transcript_api.formatters import TextFormatter
 from zenrows import ZenRowsClient
 
-GOOGLE_API_KEY = "AIzaSyCF4-EoeVPHI3oDyeUZDECZIsfAsr4XGvk"
+GOOGLE_API_KEY = "YOUR_API_KEY"
 genai.configure(api_key=GOOGLE_API_KEY)
 gemini = genai.GenerativeModel('gemini-pro')
 generation_config = genai.GenerationConfig(

@@ -6,7 +6,7 @@ generated using Kedro 0.19.3
 import json
 import pandas as pd
 import google.generativeai as genai
-GOOGLE_API_KEY = "AIzaSyCF4-EoeVPHI3oDyeUZDECZIsfAsr4XGvk"
+GOOGLE_API_KEY = "YOUR_API_KEY"
 genai.configure(api_key=GOOGLE_API_KEY)
 gemini = genai.GenerativeModel('gemini-pro')
 generation_config = genai.GenerationConfig(
