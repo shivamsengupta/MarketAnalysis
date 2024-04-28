@@ -6,6 +6,7 @@ generated using Kedro 0.19.3
 import json
 import pandas as pd
 import google.generativeai as genai
+import pymongo
 GOOGLE_API_KEY = "YOUR_API_KEY"
 genai.configure(api_key=GOOGLE_API_KEY)
 gemini = genai.GenerativeModel('gemini-pro')
@@ -125,6 +126,11 @@ def assemble(
        scraped_df=pd.DataFrame
 )-> pd.DataFrame:
     information=[]
+    found_record=[]
+    dict1=[]
+    company_profiles=""
+    company_names=[]
+
     # for index, row in scraped_df.iterrows():
     #     cleaned_markdown = row['CLEANED_MARKDOWN']
     #     company=row["Company"]
@@ -138,20 +144,50 @@ def assemble(
         name = input()
         if name == "":
             break
-        names.append(name)
+        names.append(name.lower())
 
     guidance_keywords = input(
         "Enter any guidance keywords to improve search (comma separated, press Enter if none): "
     ).split(",")
-    guidance_keywords = [keyword.strip() for keyword in guidance_keywords if keyword.strip()]
-    keywords=" "
-    for k in guidance_keywords:
-        keywords=keywords+" "+k
+    guidance_keywords = [keyword.strip().lower() for keyword in guidance_keywords if keyword.strip()]
+    
+    #             MONGO DB CLIENT CREATION.....................
+    client= pymongo.MongoClient("mongodb://localhost:27017")
+    db = client["COMPANY_NAME_KEYWORD_RESULTS_DATABASE"]
+    collection = db["initial_collection"]
 
-    for company in names:
-        comp_info=final_results(company, keywords)
-        information.append({'Company': company,
+    sorted_names=sorted(names)
+    sorted_keywords=sorted(guidance_keywords)
+    #             DATABASE SEARCHING STARTED........................
+    record=collection.find_one({"companynames":", ".join(sorted_names),
+                                "keywords":", ".join(sorted_keywords)})
+    if record:
+        print("SEARCHING MATCHED WITH A DOCUMENT...........................................")
+        found_record.append({"CompetitiveAnalysis":record["results"]})
+        df=pd.DataFrame(found_record)
+
+    else: 
+        print("NO DOCUMENTS FOUND. INITIATING CREATION OF A NEW DOCUMENT....................................")
+        keywords=""
+        for k in sorted_keywords:
+            keywords=keywords+" "+k
+        print("INFORMATION FETCHING STARTED..............................................")
+        for company in sorted_names:
+            comp_info=final_results(company, keywords)
+            information.append({'Company': company,
                          'COMPANY_PROFILE': "".join(comp_info)
                          })
-    df = pd.DataFrame(information)
+        print("INFORMATION FETCHING DONE................................................")   
+        print("PREPARING FOR DATABASE INSERTION.........................................")   
+        company_names = [item['Company'] for item in information]
+        sorted_company_names=sorted(company_names)
+        company_profiles = '\n\n'.join(f"{item['COMPANY_PROFILE']}\n{'='*100}" for item in information)
+        df = pd.DataFrame(information)
+        dict1 = {"companynames": ", ".join(sorted_company_names),
+                  "keywords": ", ".join(sorted_keywords), 
+                  "results": company_profiles}
+        
+        print("INSERTING INTO DATABASE.................................................")
+        collection.insert_one(dict1)
+        
     return df
